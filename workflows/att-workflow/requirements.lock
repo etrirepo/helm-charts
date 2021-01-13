@@ -1,0 +1,6 @@
+dependencies:
+- name: att-workflow-driver
+  repository: https://charts.opencord.org
+  version: 2.0.0
+digest: sha256:9d8a6fb7c299a4a74025e19ba5c37602ac3019cf8e6c538371f9008517c22bb2
+generated: "2021-01-13T13:00:24.311483869+09:00"

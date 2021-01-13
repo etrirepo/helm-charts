@@ -1,0 +1,6 @@
+dependencies:
+- name: kubernetes
+  repository: https://charts.opencord.org
+  version: 2.0.0
+digest: sha256:54003c26e29116f0af3ebc8d5f4536672308a3eaf0a9e364a481aa3aaa220520
+generated: "2021-01-13T13:02:15.012645461+09:00"
